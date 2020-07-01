@@ -1,7 +1,6 @@
 {
   "name": "BDD",
   "version": "1.0.0",
-  "description": "",
   "main": "cucumber.js",
   "scripts": {
     "test": "cucumber-js"
@@ -11,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "cucumber": "^6.0.5"
-  }
+  },
+  "description": "teste"
 }
